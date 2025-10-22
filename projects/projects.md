@@ -4,3 +4,5 @@
 [See course projects](/projects/courseprojects.md)
 
 [See research projects](/projects/researchprojects.md)
+
+[Return to main page](/README.md)
