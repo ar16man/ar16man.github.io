@@ -5,4 +5,4 @@
 
 [See research projects](/projects/researchprojects.md)
 
-[Return to main page](reynolds/README.md)
+[Return to main page](/)
