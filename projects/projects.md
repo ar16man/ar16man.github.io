@@ -5,4 +5,4 @@
 
 [See research projects](/projects/researchprojects.md)
 
-[Return to main page](/)
+[Back to Home]({{ '/' | relative_url }})
