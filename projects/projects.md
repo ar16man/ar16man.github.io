@@ -1,4 +1,6 @@
 # projects
-[See personal projects](/LBL.md)
-[See course projects](/courseprojects.md)
-[See research projects](/researchprojects.md)
+[See personal projects](/projects/LBL.md)
+
+[See course projects](/projects/courseprojects.md)
+
+[See research projects](/projects/researchprojects.md)
