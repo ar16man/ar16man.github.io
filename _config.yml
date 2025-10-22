@@ -3,4 +3,4 @@ title: My Awesome Project Site
 description: A description of my project.
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
