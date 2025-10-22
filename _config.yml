@@ -5,4 +5,4 @@ baseurl: "/reynolds" # Add this line
 
 # Build settings
 theme: jekyll-theme-slate
-url: "https://ar16man.github.io" # Optional, but good practice
+
